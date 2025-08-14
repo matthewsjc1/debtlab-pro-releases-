@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marke\\Desktop\\DebtLab Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Deploy\\DebtLabPro\\DebtLab Pro.application||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebtLab Pro.application",
+              "DocumentMoniker": "C:\\Deploy\\DebtLabPro\\DebtLab Pro.application",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Deploy\\DebtLabPro\\DebtLab Pro.application",
+              "ToolTip": "C:\\Deploy\\DebtLabPro\\DebtLab Pro.application",
+              "RelativeToolTip": "..\\..\\..\\..\\Deploy\\DebtLabPro\\DebtLab Pro.application",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANSSURBVEhL7VQ9iFxVFP5miBuyCWhQcA0oAUmjIViIGGzF0hgQ0qXSTggEJKCNnZXFslgFRBYMFklhoavF2kQRAoYM\u002BIuuuJssmdmZyfzsZGb2vXO\u002Bz\u002BLcOz/RWIh2Hni8e8997/vO\u002Bc65B/gvTdK9rn/dKqdeW/5EkJzAqBAGY2E4FgZjYlwA/g9iaF5985W8rpxfrunpE8flLjgBc8CdKB1wF0oTzAVjvLPfXHAHKIAQkAL58puf8NtHz1UzwWQBpee\u002BVklPfFS59/g\u002BVjm/XNPiwUWVJgwLYXcEDEZEf0SMxoBRkACmmkmAUjBCrDUTWac3xObHz08DX1ldE2fMnTRzFqVxvOccjY2DkbF/t2R3t2S7V7DZKVhv73G7NebNxpjfbzb5y60Bf94a8Oy5dzkBn5MoR6PQNdaCAxAFCnDFm2kvxrfvr7\u002BF9R\u002BuoNG6jdJ8FnJKkAEFTX7MIC6AMz5TkBoFd4F0bN6t4fqvX\u002BHks0/9mSC0TFpTcCgACdAFUXAS8gAUhZKKvQR3w6GlRdzofQ4sNbB4\u002BMDCPIGiTFmiWamoaF9liVImsY8MC3MM94ZYevxRXN34FCdeP/bG/ocfWJghCCBiqm3onfaJJMAFp0AKRqAkYGWBfqeLerOO6r4KDhze/071Ib04RyAiLg4j7ZAogLPfFFK5BzhdIInCSrRaLbR2WtjZqcPGfujo6SMXnzz72BNVABFdloSpO3waqWeZPM5dcZuZalWWBZrNJu602\u002Bh2\u002Bthu3troftc/s7F6e2tSZDIuDJHkSZlNyJMkljKTADrgFAor0G13MdgdYKvzO8qGXq2v976eSuRJbwfoTNKkFlTMHE91UvIbCUsZF2WJ0d4IpirOnXwPN680ayqlCUGWhtK053OhU4vmlrWckcddcApmhn0LB3HmmbfxY62dOxRTAsYFy\u002B2X25MMiUKqIM/nUp5TgrHEhZc/xNFHjmNru/EXBBDcAiTGdZKICTjLlf1pfDPV5MKpSzjy4LHI1udHRWVldU2nX3pBzTu9ibZuTECEeV5HPcwJ92hVknARbiFjv9fBpcuXce2zi5MRVFlZXdO1b2/I3CICc5AESRgJ0lO/e4wJMRU\u002B3jEImUZN1OP6Fx/MDdH/7W/tD5bYlQiiN9LpAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-08-14T14:22:55.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
